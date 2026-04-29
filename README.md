@@ -65,7 +65,7 @@ pip install requests curl_cffi
 
 ```bash
 # Clone or download the tool
-git clone <repository-url>
+git clone https://github.com/Pr0fessorSnApe/miftah.git
 cd miftah_project
 
 # Make executable (optional)
